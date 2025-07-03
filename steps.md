@@ -22,3 +22,17 @@ create steps:
 // 17 global style
 // 18 make globals files
 // 19 push files to _index.scss of globals
+
+// 20 set boilerplate 
+// 21 set typography
+
+// 22 move font and color to global
+
+// 23 add component files
+// 24 put some thing in their
+
+// 25 make @use in card and toggle
+
+// 26 make dist ( this folder for mixing the css styles and js for final shot)
+// 27 link the dist in main html 
+
